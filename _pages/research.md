@@ -21,9 +21,9 @@ permalink: /research/
 </div>
 
 <div class="grid">
-  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view">Control of Cable Driven Parallel Robots Through Deep Reinforcement Learning</a></h4>
+  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view">Control of Cable Driven Parallel Robots Through Deep Reinforcement Learning</a>[Best Paper Award]</h4>
   <p><em><strong>D. A. Nejad</strong>, A. Sharifi, M. R. Dindarloo, A. S. Mirjalili, S. A. Khalilpour, and H. D. Taghirad.</em></p>
-  <p><strong>Conference:</strong> 2024 IEEE RSI International Conference on Robotics and Mechatronics.(<strong>ICRoM</strong>)[Best Paper Award]</p>
+  <p><strong>Conference:</strong> 2024 IEEE RSI International Conference on Robotics and Mechatronics.(<strong>ICRoM</strong>)</p>
   <a href="https://github.com/DanialNejad/CDPR_RL" class="btn"><i class="fa fa-github-square"></i> View Code</a>
 </div>
 
