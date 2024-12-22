@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mohammadreza Dindarloo
+title: Danial Nejad
 head_title: Home
 subtitle: Fan of AI 
 ---
@@ -13,7 +13,7 @@ subtitle: Fan of AI
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
-  Hello! My name is Mohammadreza Dindarloo, and I have recently completed my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on optimization problems in robotics, including state estimation, calibration, and sensor fusion.
+  Hello! My name is Danial Nejad, and I have recently completed my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on optimization problems in robotics, including state estimation, calibration, and sensor fusion.
 
 </div>
 
@@ -34,15 +34,15 @@ subtitle: Fan of AI
     <h5><i class="fa fa-university"></i> M.Sc. in Control Engineering</h5>
     <p>
       <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
-      <strong>Years:</strong> 2021 - 2024 <br>
-      <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization Framework for Robot Calibration and State Estimation
+      <strong>Years:</strong> 2022 - 2025 <br>
+      <strong>Thesis:</strong> Classifying Customers and Predicting their Future Purchases using Artificial Intelligence Methods
     </p>
 
     <h5><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h5>
     <p>
-      <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
-      <strong>Years:</strong> 2017 - 2021 <br>
-      <strong>Final Project:</strong> Design and Implementation of a Comprehensive Data Acquisition System (DAQ) for Real-Time Applications in ARASH:ASiST Eye Surgery Training Robot
+      <strong>Institution:</strong> <a href="https://shirazu.ac.ir/en/home">Shiraz University</a> <br>
+      <strong>Years:</strong> 2017 - 2022 <br>
+      <strong>Final Project:</strong> Simulation and Control of Self‑Balancing Robot using Reinforcement Learning and Comparison with Classical Methods
     </p>
 
   </div>
