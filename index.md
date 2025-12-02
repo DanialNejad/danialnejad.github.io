@@ -2,7 +2,7 @@
 layout: page
 title: Danial Nejad
 head_title: Home
-subtitle: Fan of AI 
+subtitle: Researcher 
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
@@ -48,7 +48,7 @@ subtitle: Fan of AI
   </div>
   <div class="unit golden-small about">
   <h3><i class="fa fa-id-card"></i> A bit more about me </h3>
-  <p><strong>Research Interests:</strong> I focus on Sensor Fusion, Multi-Agent Systems, Medical Robotics, and leveraging machine learning to enhance robotic applications.</p>
+  <p><strong>Research Interests:</strong> I focus on Graph Neural Networks (GNN), Explainable AI (XAI), and leveraging machine learning to enhance robotic applications.</p>
   <p><strong>Hobbies & Passions:</strong> Beyond my research, I enjoy climbing, playing football, performing classical music, and exploring historical sites to learn about different cultures.</p>
   </div>
 </div>
