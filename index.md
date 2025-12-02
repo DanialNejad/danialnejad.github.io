@@ -9,7 +9,7 @@ subtitle: Researcher
 <div class="pretty-links">
 <div class="grid">
 <div class="unit golden-small profile-pic">
-<img class='site-profile' src="/assets/img/MohammadrezaDindarloo_mainpage.jpg">
+<img class='site-profile' src="/assets/img/prof.JPG">
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
