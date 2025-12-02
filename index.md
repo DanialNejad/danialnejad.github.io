@@ -18,7 +18,7 @@ subtitle: Researcher
 </div>
 
   <p>
-    Since September 2019, I have been a research associate at the [ARAS (Applied Robotics and AI Solutions)](https://aras.kntu.ac.ir/) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/). My work at ARAS has concentrated on the development of surgical and cable-driven robotic systems, with a particular emphasis on embedded systems, robotic control, and advanced optimization techniques.
+    Since September 2022, I have been a research associate at the [ARAS (Applied Robotics and AI Solutions)](https://aras.kntu.ac.ir/) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/). My work at ARAS has concentrated on the development of surgical and cable-driven robotic systems, with a particular emphasis on embedded systems, robotic control, and advanced optimization techniques.
   </p>
   
 </div>
@@ -31,7 +31,7 @@ subtitle: Researcher
   <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
   
   <div class="unit golden-large news">
-    <h5><i class="fa fa-university"></i> M.Sc. in Control Engineering</h5>
+    <h5><i class="fa fa-university"></i> M.Sc. in Electrical Engineering - Control</h5>
     <p>
       <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
       <strong>Years:</strong> 2022 - 2025 <br>
