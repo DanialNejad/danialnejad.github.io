@@ -13,12 +13,12 @@ subtitle: Researcher
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
-  Hello! My name is Danial Nejad, and I have recently completed my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on optimization problems in robotics, including state estimation, calibration, and sensor fusion.
+  Hello! My name is Danial Nejad, and I have recently completed my Master’s degree in Electrical Engineering, with a specialization in Control from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on the application of Machine Learning, especially on graph-based models. I also have hands-on experience implementing Reinforcement Learning in Robotics.
 
 </div>
 
   <p>
-    Since September 2022, I have been a research associate at the [ARAS (Applied Robotics and AI Solutions)](https://aras.kntu.ac.ir/) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/). My work at ARAS has concentrated on the development of surgical and cable-driven robotic systems, with a particular emphasis on embedded systems, robotic control, and advanced optimization techniques.
+    Since September 2022, I have been a research associate at the [ARAS (Applied Robotics and AI Solutions)](https://aras.kntu.ac.ir/) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/). In my role at ARAS, I have focused on developing machine learning models for personalization and prediction in e-commerce, specifically concentrating on recommender systems and customer behavior prediction. Additionally, I have collaborated with the robotics team to implement AI applications in this field.
   </p>
   
 </div>
