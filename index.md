@@ -35,7 +35,7 @@ subtitle: Researcher
     <p>
       <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
       <strong>Years:</strong> 2022 - 2025 <br>
-      <strong>Thesis:</strong> Classifying Customers and Predicting their Future Purchases using Artificial Intelligence Methods
+      <strong>Thesis:</strong> Unified Relational Deep Learning for Customer Segmentation and Purchase Prediction Using Graph Neural Networks
     </p>
 
     <h5><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h5>
