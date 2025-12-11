@@ -8,7 +8,7 @@ permalink: /research/
 <div class="pretty-links">
 
 <div class="lead lead-about">You may find a selection of my publications below. For a more thorough list, please refer to my [<i class="fa fa-flask"></i>
- Google Scholar](https://scholar.google.com/citations?user=MUvoM5QAAAAJ&hl=en).
+ Google Scholar](https://scholar.google.ca/citations?hl=en&user=k0LeS5IAAAAJ).
 </div>
 
 
