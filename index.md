@@ -96,31 +96,40 @@ Recently...
   </div><div class="grid no-gutters">
     <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-stethoscope" aria-hidden="true"></i> SBO Project: AI-Driven Predictor for Surgical Necessity</a></h4>
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-cogs" aria-hidden="true"></i> Control of CDPRs Through Deep Reinforcement Learning</a></h4>
         <img src='/assets/img/projects/placeholder_image3.png' class='project-img'>
-        <p>This project develops an objective Clinical Decision Support System to standardize emergency triage and optimize life-saving interventions. It involves training 3D CNNs on contrast-enhanced CT scans to extract critical imaging biomarkers (like transition zones and whirl signs) and fusing heterogeneous clinical evidence by integrating these 3D imaging features with longitudinal data.</p>
-      </div>
-    </div>
-  <div class="unit half">
-      <div class="project">
-        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-line-chart" aria-hidden="true"></i> Sales Forecasting Using Time Series Data</a></h4>
-        <img src='/assets/img/projects/placeholder_image4.png' style='width: 40%  height: 40%;'>
-        <p>This research extracts actionable patterns from complex time series data using advanced temporal models. Implementations heavily utilize architectures like Long Short-Term Memory (LSTM) networks and Light-GBM to enhance forecasting accuracy in highly non-linear environments.</p>
-      </div>
-    </div>
-  </div><div class="grid no-gutters">
-    <div class="unit half">
-      <div class="project">
-        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-database" aria-hidden="true"></i> Sequential Prediction & Event Modeling</a></h4>
-        <img src='/assets/img/projects/placeholder_image5.png' class='project-img'>
-        <p>This project utilizes XGBoost to mathematically model longitudinal event datasets. The primary focus is on developing robust predictive modeling techniques for sequential analysis and managing severe data intermittency.</p> 
+        <p>Implemented the Deep Deterministic Policy Gradient (DDPG) algorithm to control a planar Cable-Driven Parallel Robot (CDPR). Leveraged the MuJoCo physics engine to simulate complex, nonlinear cable dynamics, demonstrating safe exploration and highly accurate path tracking. Accepted at ICRoM 2024.</p>
       </div>
     </div>
     
     <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-robot" aria-hidden="true"></i> RL-Based Control of Self-Balancing Robot</a></h4>
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-stethoscope" aria-hidden="true"></i> SBO Project: AI-Driven Predictor for Surgical Necessity</a></h4>
+        <img src='/assets/img/projects/placeholder_image4.png' class='project-img'>
+        <p>This project develops an objective Clinical Decision Support System to standardize emergency triage and optimize life-saving interventions. It involves training 3D CNNs on contrast-enhanced CT scans to extract critical imaging biomarkers (like transition zones and whirl signs) and fusing heterogeneous clinical evidence.</p>
+      </div>
+    </div>
+  </div><div class="grid no-gutters">
+    <div class="unit half">
+      <div class="project">
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-line-chart" aria-hidden="true"></i> Sales Forecasting Using Time Series Data</a></h4>
+        <img src='/assets/img/projects/placeholder_image5.png' style='width: 40% height: 40%;'>
+        <p>This research extracts actionable patterns from complex time series data using advanced temporal models. Implementations heavily utilize architectures like Long Short-Term Memory (LSTM) networks and Light-GBM to enhance forecasting accuracy in highly non-linear environments.</p>
+      </div>
+    </div>
+
+    <div class="unit half">
+      <div class="project">
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-users" aria-hidden="true"></i> Customer Segmentation Project</a></h4>
         <img src='/assets/img/projects/placeholder_image6.png' class='project-img'>
+        <p>Predicting customer behavior in autonomous retail applications using classification and clustering approaches. This work focuses on handling highly imbalanced data distributions and extracting relational customer patterns to build robust profiles. Accepted at ICRoM 2024.</p> 
+      </div>
+    </div>
+  </div><div class="grid no-gutters">
+    <div class="unit half">
+      <div class="project">
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-robot" aria-hidden="true"></i> RL-Based Control of Self-Balancing Robot</a></h4>
+        <img src='/assets/img/projects/placeholder_image7.png' class='project-img'>
         <p>Engineered and simulated the control of a self-balancing robot utilizing Reinforcement Learning. This project required modeling continuous state transitions and translating chaotic, non-linear physical dynamics into actionable algorithmic constraints, comparing the performance against classical mathematical control methods.</p>
       </div>
     </div>
