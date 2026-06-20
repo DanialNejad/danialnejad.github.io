@@ -73,7 +73,6 @@ Recently...
 
 
 
-</div>
 ## Research Highlights
 {::nomarkdown} 
 <div class="projects">
@@ -110,13 +109,21 @@ Recently...
       </div>
     </div>
   </div><div class="grid no-gutters">
-  <div class="unit half">
-    <div class="project">
-      <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-database" aria-hidden="true"></i> Sequential Prediction & Event Modeling</a></h4>
-      <img src='/assets/img/projects/placeholder_image5.png' class='project-img'>
-      <p>This project utilizes XGBoost to mathematically model longitudinal event datasets. The primary focus is on developing robust predictive modeling techniques for sequential analysis and managing severe data intermittency.</p> 
+    <div class="unit half">
+      <div class="project">
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-database" aria-hidden="true"></i> Sequential Prediction & Event Modeling</a></h4>
+        <img src='/assets/img/projects/placeholder_image5.png' class='project-img'>
+        <p>This project utilizes XGBoost to mathematically model longitudinal event datasets. The primary focus is on developing robust predictive modeling techniques for sequential analysis and managing severe data intermittency.</p> 
+      </div>
     </div>
-  </div>
+    
+    <div class="unit half">
+      <div class="project">
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-robot" aria-hidden="true"></i> RL-Based Control of Self-Balancing Robot</a></h4>
+        <img src='/assets/img/projects/placeholder_image6.png' class='project-img'>
+        <p>Engineered and simulated the control of a self-balancing robot utilizing Reinforcement Learning. This project required modeling continuous state transitions and translating chaotic, non-linear physical dynamics into actionable algorithmic constraints, comparing the performance against classical mathematical control methods.</p>
+      </div>
+    </div>
   </div></div>
 {:/}
 
