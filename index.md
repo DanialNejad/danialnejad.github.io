@@ -81,7 +81,7 @@ Recently...
       <div class="unit half">
         <div class="project">
           <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fab fa-github" aria-hidden="true"></i> Personalization using Graph Neural Networks on Structured Data</a></h4>
-          <img src='/assets/img/byol.png' style='width: auto; max-width: 300px; height: 80%;'>
+          <img src='/assets/img/projects/byol.jpg' style='width: auto; max-width: 300px; height: 80%;'>
           <p>This project focuses on Customer Segmentation by learning customer embeddings on temporal relational graphs. It utilizes a modified BYOL-based self-supervised GNN implemented in PyTorch Geometric and TorchFrame. Unsupervised clustering is then applied to form stable and explainable customer segments.</p>
         </div>
       </div>
@@ -89,7 +89,7 @@ Recently...
       <div class="unit half">
         <div class="project">
           <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fab fa-github" aria-hidden="true"></i> Unified Interpretability Framework using LLMs and RAG</a></h4>
-          <img src='/assets/img/RAG.png' class='project-img'>
+          <img src='/assets/img/projects/RAG.jpg' class='project-img'>
           <p>This research integrates Graph Representation Learning (GRL) with Retrieval-Augmented Generation (RAG) modules to ground Large Language Model (LLM) outputs in verified facts. It traces algorithmic reasoning pathways using saliency methods to explicitly define knowledge boundaries and ensure trustworthy AI decision-making.</p>
         </div>
       </div>
@@ -97,7 +97,7 @@ Recently...
     <div class="unit half">
       <div class="project">
         <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-cogs" aria-hidden="true"></i> Control of CDPRs Through Deep Reinforcement Learning</a></h4>
-        <img src='/assets/img/CDPR.png' class='project-img'>
+        <img src='/assets/img/projects/CDPR.jpg' class='project-img'>
         <p>Implemented the Deep Deterministic Policy Gradient (DDPG) algorithm to control a planar Cable-Driven Parallel Robot (CDPR). Leveraged the MuJoCo physics engine to simulate complex, nonlinear cable dynamics, demonstrating safe exploration and highly accurate path tracking. Accepted at ICRoM 2024.</p>
       </div>
     </div>
@@ -105,7 +105,7 @@ Recently...
     <div class="unit half">
       <div class="project">
         <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-stethoscope" aria-hidden="true"></i> SBO Project: AI-Driven Predictor for Surgical Necessity</a></h4>
-        <img src='/assets/img/sbo.png' class='project-img'>
+        <img src='/assets/img/projects/sbo.jpg' class='project-img'>
         <p>This project develops an objective Clinical Decision Support System to standardize emergency triage and optimize life-saving interventions. It involves training 3D CNNs on contrast-enhanced CT scans to extract critical imaging biomarkers (like transition zones and whirl signs) and fusing heterogeneous clinical evidence.</p>
       </div>
     </div>
@@ -113,7 +113,7 @@ Recently...
     <div class="unit half">
       <div class="project">
         <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-line-chart" aria-hidden="true"></i> Sales Forecasting Using Time Series Data</a></h4>
-        <img src='/assets/img/time.png' style='width: 40% height: 40%;'>
+        <img src='/assets/img/projects/time.jpg' style='width: 40% height: 40%;'>
         <p>This research extracts actionable patterns from complex time series data using advanced temporal models. Implementations heavily utilize architectures like Long Short-Term Memory (LSTM) networks and Light-GBM to enhance forecasting accuracy in highly non-linear environments.</p>
       </div>
     </div>
@@ -121,7 +121,7 @@ Recently...
     <div class="unit half">
       <div class="project">
         <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-users" aria-hidden="true"></i> Customer Segmentation Project</a></h4>
-        <img src='/assets/img/CS.png' class='project-img'>
+        <img src='/assets/img/projects/cs.jpg' class='project-img'>
         <p>Predicting customer behavior in autonomous retail applications using classification and clustering approaches. This work focuses on handling highly imbalanced data distributions and extracting relational customer patterns to build robust profiles. Accepted at ICRoM 2024.</p> 
       </div>
     </div>
