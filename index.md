@@ -153,10 +153,10 @@ Recently...
     </div>
     <div class="unit whole news-item">
     <div class="unit half news-item">
-      <img src="/assets/img/events/icrom2023presentation1.png" style="width: 100%;">
+      <img src="/assets/img/events/icrom2023.JPG" style="width: 100%;">
     </div>
     <div class="unit half news-item">
-      <img src="/assets/img/events/icrom poster.jpg" style="width: 100%;">
+      <img src="/assets/img/events/icrom poster.jpg" style="width: 80%;">
     </div>
     </div>
  
