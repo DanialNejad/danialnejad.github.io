@@ -125,14 +125,6 @@ Recently...
         <p>Predicting customer behavior in autonomous retail applications using classification and clustering approaches. This work focuses on handling highly imbalanced data distributions and extracting relational customer patterns to build robust profiles. Accepted at ICRoM 2024.</p> 
       </div>
     </div>
-  </div><div class="grid no-gutters">
-    <div class="unit half">
-      <div class="project">
-        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-robot" aria-hidden="true"></i> RL-Based Control of Self-Balancing Robot</a></h4>
-        <img src='/assets/img/projects/placeholder_image7.png' class='project-img'>
-        <p>Engineered and simulated the control of a self-balancing robot utilizing Reinforcement Learning. This project required modeling continuous state transitions and translating chaotic, non-linear physical dynamics into actionable algorithmic constraints, comparing the performance against classical mathematical control methods.</p>
-      </div>
-    </div>
   </div></div>
 {:/}
 
