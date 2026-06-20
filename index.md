@@ -74,7 +74,6 @@ Recently...
 
 
 </div>
-
 ## Research Highlights
 {::nomarkdown} 
 <div class="projects">
@@ -82,62 +81,45 @@ Recently...
   <div class="grid">
       <div class="unit half">
         <div class="project">
-          <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC.git"><i class="fab fa-github" aria-hidden="true"></i> ARASFactorSLAC</a></h4>
-          <img src='/assets/img/projects/IROS2024Factorgraph.png' style='width: auto; max-width: 300px; height: 80%;'>
-          <!-- <img src='/assets/img/projects/IROS2024Factorgraph.png' class='project-img'> -->
-          <p> This project contains the implementation of a self-calibration and localization framework for Cable-Driven Parallel Robots (CDPRs) with sagging cables.  This work is currently published in the  <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference </a> as a <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view"><i class="fa fa-file-text" aria-hidden="true"></i> oral pitch interaction presentation paper</a>.</p>
+          <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fab fa-github" aria-hidden="true"></i> Personalization using Graph Neural Networks on Structured Data</a></h4>
+          <img src='/assets/img/projects/placeholder_image1.png' style='width: auto; max-width: 300px; height: 80%;'>
+          <p>This project focuses on Customer Segmentation by learning customer embeddings on temporal relational graphs. It utilizes a modified BYOL-based self-supervised GNN implemented in PyTorch Geometric and TorchFrame. Unsupervised clustering is then applied to form stable and explainable customer segments.</p>
         </div>
       </div>
 
       <div class="unit half">
         <div class="project">
-          <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/Arastronaut"><i class="fab fa-github" aria-hidden="true"></i> ARAStronaut</a></h4>
-          <img src='/assets/img/projects/ARAStronaut.png' class='project-img'>
-          <p>This project focuses on developing a custom module for collecting and visualizing Ultra-Wideband IMU and gyroscope data from an ESP32 microcontroller, utilizing Python, C++, and Node.js. The system features integrated data acquisition, calibration, and real-time plotting capabilities, facilitating efficient analysis of sensor data. Both the hardware and software components are available as an open-source project.</p>
+          <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fab fa-github" aria-hidden="true"></i> Unified Interpretability Framework using LLMs and RAG</a></h4>
+          <img src='/assets/img/projects/placeholder_image2.png' class='project-img'>
+          <p>This research integrates Graph Representation Learning (GRL) with Retrieval-Augmented Generation (RAG) modules to ground Large Language Model (LLM) outputs in verified facts. It traces algorithmic reasoning pathways using saliency methods to explicitly define knowledge boundaries and ensure trustworthy AI decision-making.</p>
         </div>
       </div>
-  </div><!-- grid -->
-
-
-
-  <div class="grid no-gutters">
+  </div><div class="grid no-gutters">
     <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/Diamond_Optimization"><i class="fab fa-github" aria-hidden="true"></i> DIAMOND Surgery Robot Calibration </a></h4>
-        <img src='/assets/img/projects/Diamond Calibration.png' class='project-img'>
-        <p>DIAMOND is an eye surgery robot that employs a parallel spherical mechanism to create a Remote Center of Motion (RCM), facilitating minimally invasive surgery (MIS). In this project, we propose a relative pose measurement method utilizing TagSLAM algorithm to calibrate the robot effectively. This work is currently published in the <a href="https://icrom.ir/">ICRoM 2023 Conference </a> as a <a href="https://drive.google.com/file/d/16XSf1F3mS0mPCfROK8nvF5mItJ2i3YPB/view"><i class="fa fa-file-text" aria-hidden="true"></i> oral presentation paper</a>.</p>
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-stethoscope" aria-hidden="true"></i> SBO Project: AI-Driven Predictor for Surgical Necessity</a></h4>
+        <img src='/assets/img/projects/placeholder_image3.png' class='project-img'>
+        <p>This project develops an objective Clinical Decision Support System to standardize emergency triage and optimize life-saving interventions. It involves training 3D CNNs on contrast-enhanced CT scans to extract critical imaging biomarkers (like transition zones and whirl signs) and fusing heterogeneous clinical evidence by integrating these 3D imaging features with longitudinal data.</p>
       </div>
     </div>
   <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASH_ASiST_Calibration_FactorGraph"><i class="fab fa-github" aria-hidden="true"></i> ARASH:ASiST Graph-Based Calibration </a></h4>
-        <img src='/assets/img/projects/ARASHASISTCalibration.png' style='width: 40%  height: 40%;'>
-        <p>This project introduces a novel method for surgical robot calibration using a factor graph framework. The GTSAM library was utilized to construct the factors, while SymForce was employed to derive the Jacobians.</p>
+        <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-line-chart" aria-hidden="true"></i> Sales Forecasting Using Time Series Data</a></h4>
+        <img src='/assets/img/projects/placeholder_image4.png' style='width: 40%  height: 40%;'>
+        <p>This research extracts actionable patterns from complex time series data using advanced temporal models. Implementations heavily utilize architectures like Long Short-Term Memory (LSTM) networks and Light-GBM to enhance forecasting accuracy in highly non-linear environments.</p>
       </div>
     </div>
-  </div><!-- grid -->
-
-
-  <div class="grid no-gutters">
+  </div><div class="grid no-gutters">
   <div class="unit half">
     <div class="project">
-      <h4 class="project-title"><a href="https://www.linkedin.com/posts/mohammadreza-dindarloo_robotics-robots-surgicalrobotics-activity-6851855078890971136-NhLX?utm_source=share&utm_medium=member_desktop"><i class="fa fa-book" aria-hidden="true"></i> A General Real-Time Data Aquisation System </a></h4>
-      <img src='/assets/img/projects/DATAAC.png' class='project-img'>
-      <p>This work introduces a real-time data acquisition embedded system designed to facilitate unified data transmission between robots, drivers, sensors and MATLAB Simulink. By utilizing the UDP protocol, a connection was established between the RTOS Matlab system and the robot, enabling the implementation of controllers on the robots through Matlab Simulink. This system was implemented on the ARASCam, Kamal-ol-Molk, ARASH:ASiST and DIAMOND robots. </p> 
+      <h4 class="project-title"><a href="[Insert Github/Paper Link Here]"><i class="fa fa-database" aria-hidden="true"></i> Sequential Prediction & Event Modeling</a></h4>
+      <img src='/assets/img/projects/placeholder_image5.png' class='project-img'>
+      <p>This project utilizes XGBoost to mathematically model longitudinal event datasets. The primary focus is on developing robust predictive modeling techniques for sequential analysis and managing severe data intermittency.</p> 
     </div>
   </div>
-  <div class="unit half">
-      <div class="project">
-        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/aras_ir_tracker"><i class="fab fa-github" aria-hidden="true"></i> ARAS IR-Tracker </a></h4>
-        <img src='/assets/img/projects/IRTRACKER.png' style='width: 40%  height: 40%;'>
-        <p>ARAS IR-Tracker is a modular infrared motion capture system for robotic and healthcare applications. It is developed and built at Advanced Robotics and Automation Systems lab at the K.N.Toosi University of Technology in Tehran (link). The system is designed to be modular with each module encapsulating isolated functionalities.</p>
-      </div>
-    </div>
-  </div><!-- grid -->
-
-
-</div>
+  </div></div>
 {:/}
+
 
 
 ---
