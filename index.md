@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Danial Nejad
+title: Danial A. Nejad
 head_title: Home
 subtitle: Researcher 
 ---
